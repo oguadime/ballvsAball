@@ -43,11 +43,3 @@ ballvsAball(A, p, k);
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 Feel free to adjust any part of this README to better fit your specific needs or preferences.
-
-
-
-
-
-
-
-
